@@ -13,13 +13,10 @@
 	background-color:#29B6F6;
 	}
 	
-.bg {background-image:url(lol.jpg);
+.bg {background-image:url(lol2.jpg);
 		max-height:100%;
 		background-position:cover;
 		background-repeat:no-repeat;
-		}
-		.form-layout:hover ~.bg{
-		opacity:0.2;
 		}
 		
 		input[type=text] {height:35px;
